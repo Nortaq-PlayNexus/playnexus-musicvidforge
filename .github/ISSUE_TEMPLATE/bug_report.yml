@@ -1,0 +1,31 @@
+---
+name: Bug report
+about: Report a problem with MusicVidForge
+title: "[Bug] "
+labels: bug
+assignees: ""
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To reproduce**
+1. Open MusicVidForge
+2. Load '...' (file type, approximate length)
+3. Select template '...' and settings '...'
+4. See error
+
+**Expected behaviour**
+What you expected to happen.
+
+**Environment**
+- OS: [e.g. Windows 11]
+- Python version: [e.g. 3.12]
+- ffmpeg version: [output of `ffmpeg -version`]
+- MusicVidForge version: [e.g. 1.0.0]
+
+**Screenshots / logs**
+If applicable, add a screenshot or the exact error text.
+
+**Additional context**
+Anything else that might help.
