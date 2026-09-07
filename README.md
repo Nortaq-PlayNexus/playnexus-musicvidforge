@@ -1,19 +1,31 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/MUSICVIDFORGE-BEAT%20SYNCED%20VIDEO-ff3b3b?style=flat-square&labelColor=0a0e1a" alt="musicvidforge" />
+</p>
 
-![MusicVidForge](assets/branding/logo.png)
+# MUSICVIDFORGE :: BEAT-SYNCED MUSIC VIDEO ENGINE
 
-# 🎬 MusicVidForge
+**Turn any song into a beat-synced music video — right from your desktop.** Offline beat detection, 8 reactive visual templates, and 4K H.264/H.265 output.
 
-**Turn any song into a beat-synced music video — right from your desktop.**
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3.10%2B-ffc430?style=flat-square&logo=python&logoColor=ffc430&labelColor=0a0e1a" alt="python"/>
+  <img src="https://img.shields.io/badge/BEAT-SCRATCH%20(ONLINE)-B8FF1E?style=flat-square&labelColor=0a0e1a" alt="beat"/>
+  <img src="https://img.shields.io/badge/TEMPLATES-8-B8FF1E?style=flat-square&labelColor=0a0e1a" alt="templates"/>
+  <img src="https://img.shields.io/badge/OUTPUT-4K%20H.264%20%2F%20H.265-00E5FF?style=flat-square&labelColor=0a0e1a" alt="output"/>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-ff3b3b?style=flat-square&labelColor=0a0e1a" alt="license"/></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![License](https://img.shields.io/github/license/Nortaq-PlayNexus/playnexus-musicvidforge)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
-[![CI](https://github.com/Nortaq-PlayNexus/playnexus-musicvidforge/actions/workflows/ci.yml/badge.svg)](https://github.com/Nortaq-PlayNexus/playnexus-musicvidforge/actions/workflows/ci.yml)
-
-</div>
+<pre>
+IDENT ......... MVF-03
+CLASS ......... BEAT-SYNCED MUSIC VIDEO ENGINE
+STATUS ........ SHIPPED / ONLINE
+PIPELINE ...... AUDIO → BEAT DETECT → RENDER → MUX → MP4
+TARGET ........ YOUTUBE · SHORTS · TIKTOK · INSTAGRAM
+LINK .......... /playnexus-musicvidforge
+</pre>
 
 ---
+
+## // 01 :: SIGNAL
 
 MusicVidForge is a desktop application that turns an audio file into a high-quality,
 beat-synchronized music video. It detects beats **in-app with NumPy** (no internet
